@@ -1,0 +1,33 @@
+_repo: Michelangelo_32762
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Street, Frederick
+    gutenberg_agent_id: '36038'
+    url: http://www.gutenberg.org/2009/agents/36038
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_issued: '2010-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32762'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Michelangelo Buonarroti, 1475-1564'
+title: Michelangelo
+url: http://www.gutenberg.org/ebooks/32762
